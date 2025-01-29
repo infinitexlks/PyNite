@@ -6,7 +6,7 @@ Fortnite made out of Python!
 pip install pygame
 ```
 2. Make a file called PyNite.py
-```
+```py
 # PyNite.py
 import pygame
 import random
